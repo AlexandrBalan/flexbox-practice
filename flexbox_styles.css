@@ -56,6 +56,26 @@ nav {
     gap: 2rem;
     padding: 2rem;
 }
+
+
+.feature-item {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.feature-icon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.footer-content {
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+}
 /* 
 Challenge: Use flexbox in media queries to create a responsive layout 
 */
