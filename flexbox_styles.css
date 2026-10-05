@@ -16,7 +16,24 @@ nav {
     gap: 2rem;
 }
 
+.user-actions {
+    display: flex;
+    gap: 1rem;
+}
 
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 2rem;
+}
+
+.card-container {
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+}
 /* 
 Challenge: Use flexbox in media queries to create a responsive layout 
 */
