@@ -114,4 +114,15 @@ Challenge: Use flexbox in media queries to create a responsive layout
         gap: 1rem;
     }
 
+    .card-container {
+        flex-direction: column;
+    }
+
+    .features {
+        flex-direction: column;
+    }
+
+    .footer-content {
+        flex-direction: column;
+    }
 }
